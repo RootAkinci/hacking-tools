@@ -47,6 +47,7 @@ print("29.ShellPhish")
 print("30.Beef")
 print("31.Sublist3r")
 print("32.XSStrike")
+print("33.SmsBomber")
 print("")
 print("")
 
@@ -147,3 +148,5 @@ if islem =="31":
 
 if islem =="32":
     os.system("git clone https://github.com/s0md3v/XSStrike")
+if islem =="33":
+    os.system("git clone https://github.com/LimerBoy/Impulse")
