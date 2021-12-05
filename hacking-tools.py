@@ -147,17 +147,3 @@ if islem =="31":
 
 if islem =="32":
     os.system("git clone https://github.com/s0md3v/XSStrike")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
